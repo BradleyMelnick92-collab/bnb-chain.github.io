@@ -192,4 +192,25 @@ kindest regards to all who helped .   and please feel free to tell Me any sort o
   },
   "forwardPorts": [3000]
 
+{
+  "version": "0.2.0",
+  "configurations": [
+ok I'm
+    {
+      "name": "000 Godmode 111  Abit0fH0pe f0r Heaven 0n Earth",
+      "type": "node",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run-script",
+        "start"
+      ],
+      "skipFiles": [
+        "<node_internals>/**"
+      ]
+    }
+  ]
+
 
